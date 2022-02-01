@@ -23,5 +23,5 @@
  <div>
    <a href="https://www.linkedin.com/in/amanda-maria-ferreira-da-silva-a799aa211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
-    ![Snake animation](https://github.com/AmandaMariaFS/AmandaMariaFS/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/AmandaMariaFS)
  </div>
