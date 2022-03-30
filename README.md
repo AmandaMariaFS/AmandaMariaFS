@@ -1,4 +1,4 @@
-### Olá, meu nome é Amanda Maria, mas você pode me chamar de Amanda❤
+### Olá mundo! meu nome é Amanda Maria❤
 
 - 🥰  Ela/Dela
 - 📖  Cursando 3º ano do curso técnico em informática no IFSP
