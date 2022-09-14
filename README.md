@@ -2,7 +2,7 @@
 
 - 🥰  Ela/Dela
 - 📖  Cursando 3º ano do curso técnico em informática no IFSP
-- 🎂  17 anos
+- 🎂  18 anos
 
 <div>
   <a href="https://github.com/AmandaMariaFS">
