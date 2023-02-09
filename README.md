@@ -1,7 +1,7 @@
 ### Olá mundo! meu nome é Amanda Maria❤
 
 - 🥰  Ela/Dela
-- 📖  Cursando 3º ano do curso técnico em informática no IFSP
+- 📖  Cursando 4º ano do curso técnico em informática no IFSP
 - 🎂  18 anos
 
 <div>
