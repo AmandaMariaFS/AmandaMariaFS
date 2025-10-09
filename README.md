@@ -2,8 +2,7 @@
 
 - 🥰  Ela/Dela
 - 📖  Formada no curso técnico em informática no IFSP
-- 📖  Cursando 2º semestre de Sistemas de Informação na USP
-- 🎂  20 anos
+- 📖  Cursando 4º semestre de Sistemas de Informação na USP
 
 <div>
   <a href="https://github.com/AmandaMariaFS">
